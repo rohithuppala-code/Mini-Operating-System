@@ -32,7 +32,7 @@ cd <repository-name>
 Run the simulator:
 
 ```bash
-python3 os_simulator.py
+python3 os_sim.py
 ```
 
 ### Menu Options
